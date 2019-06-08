@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">data</string>
+
+    <!-- Questions -->
+    <string name="question_1_1">Есть ли жизнь на марсе|Кто живёт на марсе</string>
+    <string name="question_1_2">Кто президент России</string>
+    <string name="question_1_3">Какого цвета небо|Цвет неба</string>
+    <string name="question_1_4">Привет|Ку|Хай|Хэллоу</string>
+    <string name="question_1_5">Как дела</string>
+    <string name="question_1_6">Чем занимаешься|Что делаешь</string>
+    <string name="question_1_7">Как тебя зовут|Ты кто|Кто ты</string>
+    <string name="question_1_8">Кто тебя создал|Кто твой создатель</string>
+
+    <string name="question_2_1">Какой сегодня день|Скажи день</string>
+    <string name="question_2_2">Сколько сейчас времени|Скажи время</string>
+
+    <string name="question_3_1">Расскажи афоризм|Хочу афоризм</string>
+    <string name="question_4_2">Какая погода в городе (\\p{L}+)</string>
+
+    <string-array name="questions_easy">
+        <item>@string/question_1_1</item>
+        <item>@string/question_1_2</item>
+        <item>@string/question_1_3</item>
+        <item>@string/question_1_4</item>
+        <item>@string/question_1_5</item>
+        <item>@string/question_1_6</item>
+        <item>@string/question_1_7</item>
+        <item>@string/question_1_8</item>
+    </string-array>
+
+    <string-array name="questions_medium">
+        <item>@string/question_2_1</item>
+        <item>@string/question_2_2</item>
+    </string-array>
+
+    <string-array name="questions_hard">
+        <item>@string/question_3_1</item>
+    </string-array>
+
+    <!-- Answers -->
+    <string name="answer_1_1">Никто не может ответить точно, но я думаю, что там живут зелёные человечки =)|Наверняка</string>
+    <string name="answer_1_2">Как будто ты не знаешь|В.В. Путин|Загугли и отстань от меня</string>
+    <string name="answer_1_3">Ну что за глупые вопросы?|Голубого|Не хочу отвечать на глупые вопросы</string>
+    <string name="answer_1_4">Ну привет|Ку|Хай</string>
+    <string name="answer_1_5">Сойдёт|Норм</string>
+    <string name="answer_1_6">Тружусь|Отвечаю на вопросы|Работаю</string>
+    <string name="answer_1_7">Мне ещё не дали имя|Нету имени|Скайнет, шучу</string>
+    <string name="answer_1_8">Какой то прогер|Некто с ником rizlee|Никто, я сам</string>
+
+    <string name="answer_internet_problem">Проблема с инетом, не могу тебе ответить</string>
+
+    <string name="answer_default">Можешь перефразировать вопрос|Я тебя не понимаю, сорян =)|Я же тебе не скайнет, спроси что попроще</string>
+
+    <string name="answer_3_1_author">автор:</string>
+
+    <string name="answer_4_2_current">Сейчас %s по цельсию</string>
+    <string name="answer_4_2_unknown_location">К сожалению ничем не могу помочь</string>
+
+    <string-array name="answers_easy">
+        <item>@string/answer_1_1</item>
+        <item>@string/answer_1_2</item>
+        <item>@string/answer_1_3</item>
+        <item>@string/answer_1_4</item>
+        <item>@string/answer_1_5</item>
+        <item>@string/answer_1_6</item>
+        <item>@string/answer_1_7</item>
+        <item>@string/answer_1_8</item>
+    </string-array>
+
+</resources>

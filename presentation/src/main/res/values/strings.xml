@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JustForFun</string>
+
+    <!-- All -->
+    <string name="all_ok">ОК</string>
+    <string name="all_cancel">Отмена</string>
+    <string name="all_retry">Повторить</string>
+
+    <!-- Main -->
+    <string name="chat_hint">Ваше сообщение туть</string>
+
+    <!-- Errors -->
+    <string name="error_unhandled_error">Уууупс, ошибочка, бывает</string>
+</resources>
